@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="fr">
-
 <head>
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -17,7 +16,7 @@
 <body>
 
   <div class="container">
-    <h1>Calculateur d'<span>IMC</span></h1>
+    <h1>Calculateur d'<span class="imc-text">IMC</span></h1>
 
     <!-- Formulaire -->
 
@@ -38,12 +37,15 @@
 
       <button>Calculer un IMC</button>
     </form>
-    <div class="result-container">
-      <h2>Votre IMC est de <span class="bmi-value">0</span></h2>
-      <p class="message">En attente de résultat...</p>
-  </div>
 
-  <script src="app.js"></script>
+    <!-- Résultat -->
+     
+    <div class="result-container">
+      <h2>Votre IMC est de <span class="bmi-value imc-text">0</span></h2>
+      <p class="message">En attente de résultat...</p>
+    </div>
+
+    <script src="app.js"></script>
 </body>
 
 </html>
