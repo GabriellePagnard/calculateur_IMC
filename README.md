@@ -1,2 +1,5 @@
 # calculateur_IMC
-Un petit calculateur d'IMC
+
+Voici un calculateur d'IMC
+
+Pour l'utiliser : [Mon Calculateur d'IMC](https://gabriellepagnard.github.io/calculateur_IMC/).
