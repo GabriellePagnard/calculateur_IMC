@@ -1,11 +1,11 @@
 // Données sur les catégories d'IMC
 const BMIData = [
-    { name: "Vous êtes en maigreur !", color: "blue", range: [0, 18.5] },
-    { name: "Vous êtes en bonne santé !", color: "green", range: [18.5, 25] },
-    { name: "Vous êtes en surpoids !", color: "coral", range: [25, 30] },
-    { name: "Vous êtes en obésité modérée !", color: "orange", range: [30, 35] },
-    { name: "Vous êtes en obésité sévère !", color: "crimson", range: [35, 40] },
-    { name: "Vous êtes en obésité morbide !", color: "purple", range: [40, Infinity] },
+    { name: "Vous êtes en maigreur ! 😢", color: "blue", range: [0, 18.5] },
+    { name: "Vous êtes en bonne santé ! 😊", color: "green", range: [18.5, 25] },
+    { name: "Vous êtes en surpoids ! 😑", color: "coral", range: [25, 30] },
+    { name: "Vous êtes en obésité modérée ! 😖", color: "orange", range: [30, 35] },
+    { name: "Vous êtes en obésité sévère ! 😣", color: "crimson", range: [35, 40] },
+    { name: "Vous êtes en obésité morbide ! 😢", color: "purple", range: [40, Infinity] },
   ];
   
   // Sélection du formulaire
