@@ -18,7 +18,39 @@ Ce projet est une application web simple mais efficace qui permet de calculer l'
 
 ## 🧩 Démonstration
 
-[Voir la démo en ligne 🎥](https://gabriellepagnard.github.io/calculateur_IMC/)
+Voici à quoi ressemble l'application :   
+
+![screenshot calculateur imc](ressources/screenshot_calculateur_IMC.jpg)
+
+![exemple de resultat](ressources/Exemple_de_resultat.jpg)
+
+[Démo vidéo du projet 🎥](https://www.youtube.com/watch?v=5vqz0Nzt6UY)
+
+<br>
+<br>
+
+## 🌐 Lien direct
+
+Pour l'utiliser : [Calculateur d'IMC 🧮](https://gabriellepagnard.github.io/calculateur_IMC/)   
+
+<br>
+<br>
+
+## 📄 Technologies Utilisées
+
+- HTML 🏗️    
+- CSS 🎨   
+- JavaScript ⚙️   
+
+<br>
+<br>
+
+## 📚 Fichiers du Projet
+
+- index.html : Le fichier HTML principal   
+- style.css : Les styles pour l'interface utilisateur   
+- app.js : Le script JavaScript pour le calcul de l'IMC   
+- ressources/ : Dossier contenant les images et les icônes (notamment les captures d'écran)   
 
 <br>
 <br>
@@ -70,24 +102,6 @@ Envoyez vos modifications à GitHub 📨 :
 ### Créer une Pull Request 🔄   
 
 Allez sur GitHub, ouvrez une Pull Request et expliquez vos modifications      
-
-<br>
-<br>
-
-## 📄 Technologies Utilisées
-
-- HTML 🏗️    
-- CSS 🎨   
-- JavaScript ⚙️   
-
-<br>
-<br>
-
-## 📚 Fichiers du Projet
-
-- index.html : Le fichier HTML principal   
-- style.css : Les styles pour l'interface utilisateur   
-- app.js : Le script JavaScript pour le calcul de l'IMC   
 
 <br>
 <br>
