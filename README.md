@@ -105,3 +105,11 @@ Pour toute question ou suggestion, n'hésitez pas à me contacter :
 
 Email : gpagnard@gmail.com   
 GitHub : [GabriellePagnard](https://github.com/GabriellePagnard)   
+
+<br>
+<br>
+<br>
+
+Merci d'avoir visité le projet Calculateur d'IMC ! 🚀   
+
+J'espère qu'il vous sera utile et agréable à utiliser. N'hésitez pas à laisser un ⭐ si vous aimez ce projet !
