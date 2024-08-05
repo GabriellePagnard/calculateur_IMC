@@ -5,6 +5,7 @@ Bienvenue dans le projet Calculateur d'IMC !
 Ce projet est une application web simple mais efficace qui permet de calculer l'Indice de Masse Corporelle (IMC) et de fournir des conseils de santé en fonction du résultat. Que vous souhaitiez suivre votre santé ou simplement explorer les catégories d'IMC, cette application est faite pour vous !   
 
 <br>
+<br>
 
 ## 🚀 Fonctionnalités
 
@@ -12,6 +13,14 @@ Ce projet est une application web simple mais efficace qui permet de calculer l'
 📈 Catégories d'IMC : Affichez des messages et couleurs spécifiques selon votre IMC (maigreur, bonne santé, surpoids, obésité)   
 💡 Interface Simple : Conçue pour être facile à utiliser et responsive sur tous les appareils   
 
+<br>
+<br>
+
+## 🧩 Démonstration
+
+[Voir la démo en ligne 🎥](https://gabriellepagnard.github.io/calculateur_IMC/)
+
+<br>
 <br>
 
 ## 🛠️ Installation et Utilisation
@@ -32,7 +41,12 @@ Entrez dans le répertoire du projet :
    
 Ouvrez le fichier "index.html" dans votre navigateur pour voir l'application en action. Vous pouvez aussi ouvrir le projet avec votre éditeur de code préféré pour apporter des modifications.
 
+<br>
+<br>
+
 ## 🔧 Comment Contribuer
+
+Vous souhaitez contribuer ? 🎉 Voici comment faire :
 
 ### Créer une Branche 🌿
 
@@ -55,31 +69,39 @@ Envoyez vos modifications à GitHub 📨 :
 
 ### Créer une Pull Request 🔄   
 
-Allez sur GitHub, ouvrez une Pull Request et expliquez vos modifications   
+Allez sur GitHub, ouvrez une Pull Request et expliquez vos modifications      
 
-## 🧩 Démonstration
-
-[Voir la démo en ligne 🎥](https://gabriellepagnard.github.io/calculateur_IMC/)   
+<br>
+<br>
 
 ## 📄 Technologies Utilisées
 
 - HTML 🏗️    
 - CSS 🎨   
 - JavaScript ⚙️   
-  
+
+<br>
+<br>
+
 ## 📚 Fichiers du Projet
 
 - index.html : Le fichier HTML principal   
 - style.css : Les styles pour l'interface utilisateur   
 - app.js : Le script JavaScript pour le calcul de l'IMC   
 
+<br>
+<br>
+
 ## 👥 Contributeurs/trices
 
 Gabrielle Pagnard 🧑‍💻 - Créatrice du projet
+
+<br>
+<br>
 
 ## 💬 Contact
 
 Pour toute question ou suggestion, n'hésitez pas à me contacter :   
 
 Email : gpagnard@gmail.com   
-GitHub : GabriellePagnard   
+GitHub : [GabriellePagnard](https://github.com/GabriellePagnard)   
